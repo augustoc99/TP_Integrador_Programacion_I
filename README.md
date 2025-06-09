@@ -41,7 +41,7 @@ TP INTEGRADOR PROGRAMACION/
 
 ## 🎥 Enlace al video de explicación
 
-Ver la grabación paso a paso en:
+Ver la grabación paso a paso en: https://drive.google.com/file/d/1Xafh1T_fQFAucUcyK95saKQIkFT9-2eT/view?usp=sharing  
 
 
 
