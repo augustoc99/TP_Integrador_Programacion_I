@@ -21,7 +21,7 @@ TP INTEGRADOR PROGRAMACION I/
 1. **Clonar** o descargar el repositorio:
    ```bash
    git clone https://github.com/tu_usuario/TP_INTEGRADOR_PROGRAMACION_I.git
-   cd TP_INTEGRADOR_PROGRAMACION
+   cd TP_INTEGRADOR_PROGRAMACION_I
    ```
 2. (Opcional) **Crear y activar** un entorno virtual:
    ```bash
