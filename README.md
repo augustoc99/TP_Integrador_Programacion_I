@@ -57,8 +57,8 @@ Ver la grabación paso a paso en: https://youtu.be/iw4Yq_D5rUQ
 
 ## 👥 Autores
 
-- **Augusto M. Cúneo Brouwer de Koning** – augusto_cuneo@hotmail.com  
-- **Matías Ariel Deluca** – matiasdeluca2000@gmail.com
+- **Augusto M. Cúneo Brouwer de Koning** – augusto_cuneo@hotmail.com - Comisión 02
+- **Matías Ariel Deluca** – matiasdeluca2000@gmail.com - Comisión 02
 
 ---
 
