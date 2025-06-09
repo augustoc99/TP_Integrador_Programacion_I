@@ -7,7 +7,7 @@ Este repositorio contiene el **Trabajo Integrador** y el **script Python** para 
 ## 📁 Estructura del repositorio
 
 ```plain
-TP INTEGRADOR PROGRAMACION/
+TP INTEGRADOR PROGRAMACION I/
 ├── organizacion_tareas.py                     # Script principal: definición de tareas y medición de tiempos
 ├── PPT_TP_INTEGRADOR_PROGRAM_I_CUNEO,DELUCA.pptx # Presentación en PowerPoint con metodología y resultados
 ├── Trabajo Integrador – Programación I - Cúneo, Deluca.pdf  # Documento del trabajo práctico en PDF
@@ -20,7 +20,7 @@ TP INTEGRADOR PROGRAMACION/
 
 1. **Clonar** o descargar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/TP_INTEGRADOR_PROGRAMACION.git
+   git clone https://github.com/tu_usuario/TP_INTEGRADOR_PROGRAMACION_I.git
    cd TP_INTEGRADOR_PROGRAMACION
    ```
 2. (Opcional) **Crear y activar** un entorno virtual:
@@ -41,7 +41,7 @@ TP INTEGRADOR PROGRAMACION/
 
 ## 🎥 Enlace al video de explicación
 
-Ver la grabación paso a paso en: https://drive.google.com/file/d/1Xafh1T_fQFAucUcyK95saKQIkFT9-2eT/view?usp=sharing  
+Ver la grabación paso a paso en: https://youtu.be/iw4Yq_D5rUQ  
 
 
 
