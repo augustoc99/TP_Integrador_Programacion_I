@@ -9,7 +9,7 @@ Este repositorio contiene el **Trabajo Integrador** y el **script Python** para 
 ```plain
 TP INTEGRADOR PROGRAMACION/
 ├── organizacion_tareas.py                     # Script principal: definición de tareas y medición de tiempos
-├── PPT INTRO Y MT.pptx                         # Presentación en PowerPoint con metodología y resultados
+├── PPT _TP_INTEGRADOR_PROGRAM_I_CUNEO,DELUCA.pptx # Presentación en PowerPoint con metodología y resultados
 ├── Trabajo Integrador – Programación I - Cúneo, Deluca.pdf  # Documento del trabajo práctico en PDF
 └── README.md                                   # Este archivo
 ```
@@ -50,7 +50,7 @@ Ver la grabación paso a paso en:
 ## 📄 Archivos principales
 
 - **organizacion_tareas.py**: código Python del caso práctico.
-- **PPT INTRO Y MT.pptx**: presentación con introducción, metodología y resultados.
+- **PPT _TP_INTEGRADOR_PROGRAM_I_CUNEO,DELUCA.pptx**: presentación con introducción, metodología y resultados.
 - **Trabajo Integrador – Programación I - Cúneo, Deluca.pdf**: documento completo del trabajo.
 
 ---
